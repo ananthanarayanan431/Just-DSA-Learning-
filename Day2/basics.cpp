@@ -12,7 +12,7 @@ int main()
     {
         cin>>arr[i];
     }
-
+    cout<<sizeof(arr)<<endl;
     cout<<arr[0]<<endl;
     return 0;
 }
